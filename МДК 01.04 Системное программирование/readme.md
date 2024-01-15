@@ -34,5 +34,27 @@ nothing added to commit but untracked files present (use "git add" to track) - (
 
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/e9721c78-4316-4316-9d7f-e8fbddb1b505)
 
-
 ---
+
+
+Настраиваем пользователя Git
+--
+Задаем имя и email пользователя для текущего репозитория 23-12 303-15  
+$ git config --global user.name PK303-13  
+$ git config --global user.email PK303-13@gmail.com  
+
+Отменяет прокси сервер:  
+git config --global –unset http.proxy  
+git config --global --unset https.proxy  
+git config --global --unset core.gitproxy  
+
+Добавление файла ( * - все файлы):  
+$ git add *
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/598d2c69-8f14-4ef0-ae22-702c72f8c942)
+
+Для фиксации версии нужно указать ее название, для этого созддается сообщение (-m)    
+git commit -m "G-02: Initial"    
+
+Выводим информмацию о фиксации:  
+$ git log  
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/0970f675-d68b-43bc-ab9a-2fa8a9e06c4f)
