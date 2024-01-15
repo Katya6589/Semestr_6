@@ -13,3 +13,4 @@
 Создаие репозитория на компьтере:
 --
 - инициализация git init
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/ec7edef9-c3e8-4f7f-9d86-b798ea09cd96)
