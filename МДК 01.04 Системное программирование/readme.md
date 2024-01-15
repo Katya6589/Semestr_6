@@ -60,3 +60,6 @@ $ git log
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/0970f675-d68b-43bc-ab9a-2fa8a9e06c4f)
 
 Подтверждение 
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/b59cc504-ae7a-49c9-bd49-0ab906c9d6fe)
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/ea43f864-8177-4e16-a16c-8ab24a551ed8)
+
