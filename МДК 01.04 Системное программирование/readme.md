@@ -14,3 +14,5 @@
 --
 - инициализация git init
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/ec7edef9-c3e8-4f7f-9d86-b798ea09cd96)
+**$ cmd //c tree .git** - показывает структуру папки гит
+  ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/608a3012-6924-4146-af07-e0ce620481cb)
