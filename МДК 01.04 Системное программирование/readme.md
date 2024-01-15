@@ -49,7 +49,7 @@ git config --global --unset https.proxy
 git config --global --unset core.gitproxy  
 
 Добавление файла ( * - все файлы):  
-$ git add *
+$ git add *  
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/598d2c69-8f14-4ef0-ae22-702c72f8c942)
 
 Для фиксации версии нужно указать ее название, для этого созддается сообщение (-m)    
@@ -60,6 +60,7 @@ $ git log
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/0970f675-d68b-43bc-ab9a-2fa8a9e06c4f)
 
 Подтверждение 
+---
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/b59cc504-ae7a-49c9-bd49-0ab906c9d6fe)
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/ea43f864-8177-4e16-a16c-8ab24a551ed8)
 
