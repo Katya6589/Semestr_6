@@ -59,4 +59,4 @@ git commit -m "G-02: Initial"
 $ git log  
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/0970f675-d68b-43bc-ab9a-2fa8a9e06c4f)
 
-Потверждение 
+Подтверждение 
