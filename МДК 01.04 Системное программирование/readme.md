@@ -75,5 +75,8 @@ $ git log
 # ЛК_2 22.01.24
 1. Если есть папка **.git**, то команду **git init** НЕ нужно
 2. Команда **config** настраиваются на ПК 1 раз
-3. **git remote** указывается один раз 
+3. **git remote** указывается один раз   
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/2ef7f763-4c05-445c-a094-8678678a2f2a)  
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/1d429a55-ea93-4bcf-8d37-f1146371af24)  
+
 
