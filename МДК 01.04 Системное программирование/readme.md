@@ -44,7 +44,7 @@ $ git config --global user.name PK303-13
 $ git config --global user.email PK303-13@gmail.com  
 
 Отменяет прокси сервер:  
-git config --global –unset http.proxy  
+git config --global --unset http.proxy  
 git config --global --unset https.proxy  
 git config --global --unset core.gitproxy  
 
@@ -72,4 +72,8 @@ $ git log
 2. Авторизация - гит хабу нужно передать данные пользователя (логин, пароль или токен)
 3. Прокси сервер  - проверять включен или нет
 
+# ЛК_2 22.01.24
+1. Если есть папка **.git**, то команду **git init** НЕ нужно
+2. Команда **config** настраиваются на ПК 1 раз
+3. **git remote** указывается один раз 
 
