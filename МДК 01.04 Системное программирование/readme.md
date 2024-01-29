@@ -79,4 +79,8 @@ $ git log
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/2ef7f763-4c05-445c-a094-8678678a2f2a)  
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/1d429a55-ea93-4bcf-8d37-f1146371af24)  
 
+# Задание 1. Знакомство с компилятором gcc
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/05e5ab08-747a-46bc-9c82-d7f92242f787)
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/25567386-eb6c-4610-a1d9-533970057ad0)
+
 
