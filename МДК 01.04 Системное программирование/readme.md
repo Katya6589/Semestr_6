@@ -82,5 +82,8 @@ $ git log
 # Задание 1. Знакомство с компилятором gcc
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/05e5ab08-747a-46bc-9c82-d7f92242f787)
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/25567386-eb6c-4610-a1d9-533970057ad0)
+RedOS:
+12345678
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/5bb57255-2ff5-48ba-ace1-b26a5ba24667)
 
 
