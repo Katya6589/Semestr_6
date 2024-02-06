@@ -86,4 +86,36 @@ RedOS:
 12345678
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/5bb57255-2ff5-48ba-ace1-b26a5ba24667)
 
+# ЛК 05.02.24 Работа с файлами
+1. Создание
+2. Перенесение
+3. Редактирование
+4. Удаление
 
+**Обычный или regular файл**
+--
+
+1)touch kstr.txt   
+2)nano kstr.txt/home/stud/'Рабочий стол'    
+3)mv kstr.txt/home/stud/'Рабочий стол'    
+4)rm /home/stud/'Рабочий стол'/kstr.txt     
+5)cat /home/stud/'Рабочий стол'/kstr.txt     
+
+**mv** - перемешение  
+**rm** - удалить(каталог можно удалить только с **-r**, тк там внутри файлы)   
+**ls** - просмотреть    
+**-r** - рекурсия    
+**cat** - чтение   
+**mkdir** - создает директорию       
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/c21fd701-a775-4daf-8b13-0da3561e92c5)  
+
+**Папка (directory)**
+--
+1)mkdir /home/stud/ kss   
+2)mkdir /home/stud/kss home/stud/ksss    
+3)touch home/stud/ksss/mayy    
+4)touch home/stud/ksss    
+5)rm -r home/stud/ksss    
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/60778296-0b41-47a7-b999-a269b02fc7dc)
+
+ 
