@@ -82,8 +82,10 @@
 # Задание 1. Знакомство с компилятором gcc
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/05e5ab08-747a-46bc-9c82-d7f92242f787)
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/25567386-eb6c-4610-a1d9-533970057ad0)
-RedOS:
-12345678
+Debian:
+`логин: stud`   
+`пароль: qwerty`  
+`RedOS: 12345678 `  
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/5bb57255-2ff5-48ba-ace1-b26a5ba24667)
 
 # ЛК_3 05.02.24 Работа с файлами
@@ -118,4 +120,16 @@ RedOS:
 5)`rm -r home/stud/ksss`    
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/60778296-0b41-47a7-b999-a269b02fc7dc)
 
- 
+## Устройства
+1. Символьные (мышь, клавиатура и т.д.)
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/9c8f87c9-6927-4c6e-9fca-95ca9c37f569)
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/50741f5c-331f-4ad5-a269-59bdbf0ea972)
+
+`c` - cимвольные
+3. Блочные (флешки)
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/9b26fe19-4fbc-47d1-a259-28dcd489b7c9)
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/9d493268-ccdf-481d-89a7-681e298bcf97)
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/8bb85531-1449-4cdb-8885-a36853b5a841)
+Пытались создать флешку
+`b ` - блок
+
