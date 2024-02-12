@@ -137,10 +137,21 @@ Debian:
 `mamka.txt` - уже существующий файл в папке
 `dochka.txt` - новый 
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/fdb99092-b082-40e7-8351-0fb4e976ff61)     
-Файлам присваиваются уникальные номера `inod`, посмотреть с комндой `ls -li1`    
+Файлам присваиваются уникальные номера `inum`, посмотреть с комндой `ls -i1`    
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/e6032559-d9e5-4e3c-8cd3-4e9be75b0bfe)    
  
 Жесткие ссфлки имеют такой же номер как и сходный файл, и это можно импользовать, чтобы найти все жесткие ссылки    
-![image](https://github.com/Katya6589/Semestr_6/assets/113089569/a50bd299-e1a3-40a2-8ded-fd67179569cd)       
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/a50bd299-e1a3-40a2-8ded-fd67179569cd)     
 
+-----
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/3ca3b680-93ba-4b80-977a-69332a0f8294)   
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/bf82c5b9-0ed4-4e98-b7db-f713cf5df8d6)  
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/042a099a-f417-44c0-a68d-02cd864fb538)   
+
+`echo` - аналог принт
+
+Поиск уникальные номера `inum` через файл
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/37202b52-3b2c-4b63-ac9d-5e9e094749bf)
+Поиск файла `inum` через уникальный номер
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/8d8947f4-9c35-40df-b0f5-10837c7d3528)
 
