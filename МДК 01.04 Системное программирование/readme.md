@@ -104,7 +104,7 @@ Debian:
 5)`cat /home/stud/'Рабочий стол'/kstr.txt`     
 
 `mv` - перемешение  
-`rm` - удалить(каталог можно удалить только с **-r**, тк там внутри файлы)   
+`rm` - удалить(каталог можно удалить только с `-r`, тк там внутри файлы)   
 `ls` - просмотреть    
 `-r` - рекурсия    
 `cat` - чтение   
@@ -121,15 +121,26 @@ Debian:
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/60778296-0b41-47a7-b999-a269b02fc7dc)
 
 ## Устройства
-1. Символьные (мышь, клавиатура и т.д.)
+### 1. Символьные (мышь, клавиатура и т.д.)
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/9c8f87c9-6927-4c6e-9fca-95ca9c37f569)
-![image](https://github.com/Katya6589/Semestr_6/assets/113089569/50741f5c-331f-4ad5-a269-59bdbf0ea972)
-
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/50741f5c-331f-4ad5-a269-59bdbf0ea972)  
 `c` - cимвольные
-3. Блочные (флешки)
+### 2. Блочные (флешки)
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/9b26fe19-4fbc-47d1-a259-28dcd489b7c9)
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/9d493268-ccdf-481d-89a7-681e298bcf97)
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/8bb85531-1449-4cdb-8885-a36853b5a841)
 Пытались создать флешку
 `b ` - блок
+
+### Жесткая ссылка   
+Создание - `ln mamka.txt dochka.txt`
+`mamka.txt` - уже существующий файл в папке
+`dochka.txt` - новый 
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/fdb99092-b082-40e7-8351-0fb4e976ff61)     
+Файлам присваиваются уникальные номера `inod`, посмотреть с комндой `ls -li1`    
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/e6032559-d9e5-4e3c-8cd3-4e9be75b0bfe)    
+ 
+Жесткие ссфлки имеют такой же номер как и сходный файл, и это можно импользовать, чтобы найти все жесткие ссылки    
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/a50bd299-e1a3-40a2-8ded-fd67179569cd)       
+
 
