@@ -108,8 +108,11 @@ Debian:
 `ls` - просмотреть    
 `-r` - рекурсия    
 `cat` - чтение   
-`mkdir` - создает директорию       
-![image](https://github.com/Katya6589/Semestr_6/assets/113089569/c21fd701-a775-4daf-8b13-0da3561e92c5)  
+`mkdir` - создает директорию        
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/ef677300-8738-4b64-aad6-85677c140592)     
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/e17e5eea-b1ec-4d21-838f-cd77f833c44f)     
+
+
 
 **Папка (directory)**
 --
@@ -155,4 +158,10 @@ Debian:
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/37202b52-3b2c-4b63-ac9d-5e9e094749bf)    
 Поиск файла `inod` через уникальный номер    
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/8d8947f4-9c35-40df-b0f5-10837c7d3528)     
+
+## Заданин 2 
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/644dea8e-68b0-4371-b391-d49e23456480)   
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/2f287a5f-881b-4b29-ad53-6c0634235470)   
+
+
 
