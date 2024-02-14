@@ -122,6 +122,7 @@ Debian:
 4)`touch home/stud/ksss`    
 5)`rm -r home/stud/ksss`    
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/60778296-0b41-47a7-b999-a269b02fc7dc)
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/ede54987-5af9-44dd-9eab-d978cdcba55e)
 
 ## Устройства
 ### 1. Символьные (мышь, клавиатура и т.д.)   
@@ -158,10 +159,16 @@ Debian:
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/37202b52-3b2c-4b63-ac9d-5e9e094749bf)    
 Поиск файла `inod` через уникальный номер    
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/8d8947f4-9c35-40df-b0f5-10837c7d3528)     
-
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/b2316b6b-0de1-4401-9911-9a920e7dc87e)   
+ 
 ## Заданин 2 
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/644dea8e-68b0-4371-b391-d49e23456480)   
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/2f287a5f-881b-4b29-ad53-6c0634235470)   
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/117a6f97-80ab-4c52-9121-bc58069c1657)
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/35486568-f5bd-45a9-b571-fd24eb317a23)
+
+
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/629760fa-0cb5-477c-b035-dd871d131a54)  
 
 
 
