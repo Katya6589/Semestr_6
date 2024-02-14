@@ -170,6 +170,7 @@ Debian:
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/8e40a17f-78ba-4701-adc3-28fc9cb7d91b)
 
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/629760fa-0cb5-477c-b035-dd871d131a54)  
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/4c570d6a-2ac7-4d9c-b023-648d29104f91)
 
 
 
