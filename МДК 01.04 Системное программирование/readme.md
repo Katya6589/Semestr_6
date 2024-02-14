@@ -167,6 +167,7 @@ Debian:
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/117a6f97-80ab-4c52-9121-bc58069c1657)
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/35486568-f5bd-45a9-b571-fd24eb317a23)
 
+![image](https://github.com/Katya6589/Semestr_6/assets/113089569/8e40a17f-78ba-4701-adc3-28fc9cb7d91b)
 
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/629760fa-0cb5-477c-b035-dd871d131a54)  
 
