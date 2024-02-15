@@ -1,3 +1,6 @@
+# [Skillbox мини-курс](https://docs.google.com/document/d/1LUl2r4DPjPYxRpCNhoTzyB91YN23fFnHxF5IDZtnqCo/edit?usp=sharing)
+
+-------
 # ЛК1 22.01.24 Основы тестирования
 1. [ от 25 000 до 25 000 ₽](https://zvenigorod.hh.ru/vacancy/91420564?query=Тестировщик+игр&hhtmFrom=vacancy_search_list)  
 ![image](https://github.com/Katya6589/Semestr_6/assets/113089569/bf3d1c35-d8a7-4284-b847-5adbd4e53de0)  
